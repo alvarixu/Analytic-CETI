@@ -1,0 +1,90 @@
+{
+  "blue-whale-balaenoptera-musculus": {
+    "rango_min_hz": 0.0,
+    "rango_max_hz": 11.71875,
+    "frecuencia_media_hz": 5.859375,
+    "frecuencia_pico_hz": 0.0,
+    "familia": "Balaenopteridae",
+    "nombre_comun": "Ballena Azul"
+  },
+  "fin-whale-balaenoptera physalus": {
+    "rango_min_hz": 0.0,
+    "rango_max_hz": 117.1875,
+    "frecuencia_media_hz": 76.34943181818181,
+    "frecuencia_pico_hz": 97.65625,
+    "familia": "Balaenopteridae",
+    "nombre_comun": "Ballena de Aleta"
+  },
+  "humpback-whale-megaptera-novaeangliae": {
+    "rango_min_hz": 0.0,
+    "rango_max_hz": 371.09375,
+    "frecuencia_media_hz": 256.94444444444446,
+    "frecuencia_pico_hz": 0.0,
+    "familia": "Megapteridae",
+    "nombre_comun": "Ballena Jorobada"
+  },
+  "killer-whale-orcinus-orca": {
+    "rango_min_hz": 0.0,
+    "rango_max_hz": 14319.580078125,
+    "frecuencia_media_hz": 7063.480575770548,
+    "frecuencia_pico_hz": 0.0,
+    "familia": "Delphinidae",
+    "nombre_comun": "Orca"
+  },
+  "minke-whale-balaenoptera-acutorostrata": {
+    "rango_min_hz": 0.0,
+    "rango_max_hz": 347.65625,
+    "frecuencia_media_hz": 189.96147260273972,
+    "frecuencia_pico_hz": 0.0,
+    "familia": "Balaenopteridae",
+    "nombre_comun": "Ballena Enana"
+  },
+  "north-atlantic-right-whale-eubalaena-glacialis-1": {
+    "rango_min_hz": 46.875,
+    "rango_max_hz": 390.625,
+    "frecuencia_media_hz": 200.32051282051282,
+    "frecuencia_pico_hz": 54.6875,
+    "familia": "Desconocida",
+    "nombre_comun": "north-atlantic-right-whale-eubalaena-glacialis-1"
+  },
+  "north-atlantic-right-whale-eubalaena-glacialis-2": {
+    "rango_min_hz": 0.0,
+    "rango_max_hz": 128.90625,
+    "frecuencia_media_hz": 64.453125,
+    "frecuencia_pico_hz": 0.0,
+    "familia": "Desconocida",
+    "nombre_comun": "north-atlantic-right-whale-eubalaena-glacialis-2"
+  },
+  "northern-bottlenose-whale-hyperoodon-ampullatus": {
+    "rango_min_hz": 0.0,
+    "rango_max_hz": 23.4375,
+    "frecuencia_media_hz": 11.71875,
+    "frecuencia_pico_hz": 0.0,
+    "familia": "Ziphiidae",
+    "nombre_comun": "Ballena Pico del Norte"
+  },
+  "pilot-whale-globicephala-spp": {
+    "rango_min_hz": 139.9658203125,
+    "rango_max_hz": 9130.078125,
+    "frecuencia_media_hz": 4930.345304247359,
+    "frecuencia_pico_hz": 8516.3818359375,
+    "familia": "Delphinidae",
+    "nombre_comun": "Ballena Piloto"
+  },
+  "sei-whale-balaenoptera-borealis": {
+    "rango_min_hz": 7.8125,
+    "rango_max_hz": 226.5625,
+    "frecuencia_media_hz": 108.17307692307692,
+    "frecuencia_pico_hz": 117.1875,
+    "familia": "Balaenopteridae",
+    "nombre_comun": "Ballena Sei"
+  },
+  "sperm-whale-physeter-macrocephalus": {
+    "rango_min_hz": 0.0,
+    "rango_max_hz": 21984.375,
+    "frecuencia_media_hz": 10992.1875,
+    "frecuencia_pico_hz": 187.5,
+    "familia": "Physeteridae",
+    "nombre_comun": "Cachalote"
+  }
+}
